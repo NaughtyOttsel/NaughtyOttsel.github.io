@@ -7,7 +7,7 @@
   "site" :
   {
     "title": "Naughty Ottsel's Programming Tidbits",
-    "description" : "Little bits I have picked up here and there. Most likely involving: Swift, Objective-C, C#, PHP, HTML, JS, ARM Assembler"
+    "description" : "Little bits I have picked up here and there. Most likely involving: \n\nSwift, \n\nObjective-C, \n\nC#, \n\nPHP, \n\nHTML, \n\nJS, \n\nARM Assembler"
   }
   "theme": {
     "name": "Casper"
