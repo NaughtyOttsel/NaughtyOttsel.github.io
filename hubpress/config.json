@@ -4,6 +4,11 @@
     "repositoryName": "NaughtyOttsel.github.io",
     "branch": "master"
   },
+  "site" :
+  {
+    "title": "Naughty Ottsel's Programming Tidbits",
+    "description" : "Little bits I have picked up here and there. Most likely involving: Swift, Objective-C, C#, PHP, HTML, JS, ARM Assembler"
+  }
   "theme": {
     "name": "Casper"
   }
