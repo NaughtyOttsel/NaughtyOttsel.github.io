@@ -1,15 +1,1 @@
-{
-  "meta": {
-    "username": "NaughtyOttsel",
-    "repositoryName": "NaughtyOttsel.github.io",
-    "branch": "master"
-  },
-  "site" :
-  {
-    "title": "Naughty Ottsel's Programming Tidbits",
-    "description" : "Little bits I have picked up here and there. Most likely involving: \n\nSwift, \n\nObjective-C, \n\nC#, \n\nPHP, \n\nHTML, \n\nJS, \n\nARM Assembler"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"NaughtyOttsel","repositoryName":"NaughtyOttsel.github.io","branch":"master"},"site":{"title":"Naughty Ottsel's Programming Tidbits","description":"Little bits I have picked up here and there. Most likely involving: \n\nSwift, \nObjective-C, \nC#, \nPHP, \nHTML, \nJS, \nARM Assembler","url":"http://NaughtyOttsel.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://NaughtyOttsel.github.io/themes/Casper"}}
