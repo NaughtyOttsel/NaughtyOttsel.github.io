@@ -1,7 +1,9 @@
-= A whole new World?
+= Hello World?
 :published_at: 2015-02-11
 
 Well, this is it, a new way of blogging, all my geeky, techy stuff through Github.
 This has been created with the help of a fantastic repo call HubPress.
 
 To get more info about HubPress visit it here: https://github.com/HubPress/hubpress.io
+
+hp-tags: welcome, hubpress, github, hello
