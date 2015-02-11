@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Mobile Web &amp; 60fps Animation</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="http://NaughtyOttsel.github.io/themes/Casper/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="http://NaughtyOttsel.github.io/themes/Casper/assets/css/screen.css?v=1.0.0" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html" />
+    
+    <meta property="og:site_name" content="Naughty Ottsel&#x27;s Programming Tidbits" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Mobile Web &amp; 60fps Animation" />
+    <meta property="og:description" content="If you haven&amp;#8217;t seen it already, Flipboard have released a web version of their news consumption service (which is awesome BTW) But the truly awesome bit about it is how they have achieved 60fps animations on mobile browsers!..." />
+    <meta property="og:url" content="http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html" />
+    <meta property="article:published_time" content="2015-02-11T00:00:00.000Z" />
+    <meta property="article:modified_time" content="2015-02-11T14:44:10.153Z" />
+    <meta property="article:tag" content="web" />
+    <meta property="article:tag" content="html5" />
+    <meta property="article:tag" content="flipboard" />
+    <meta property="article:tag" content="react" />
+    <meta property="article:tag" content="canvas" />
+    <meta property="article:tag" content="mobile" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Mobile Web &amp; 60fps Animation" />
+    <meta name="twitter:description" content="If you haven&amp;#8217;t seen it already, Flipboard have released a web version of their news consumption service (which is awesome BTW) But the truly awesome bit about it is how they have achieved 60fps animations on mobile browsers!..." />
+    <meta name="twitter:url" content="http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "Naughty Ottsel&#x27;s Programming Tidbits",
+    "author": {
+        "@type": "Person",
+        "image": "https://avatars.githubusercontent.com/u/550966?v=3",
+        "url": "undefined/author/undefined"
+    },
+    "headline": "Mobile Web &amp; 60fps Animation",
+    "url": "http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html",
+    "datePublished": "2015-02-11T00:00:00.000Z",
+    "dateModified": "2015-02-11T14:44:10.153Z",
+    "keywords": "web,  html5,  flipboard,  react,  canvas,  mobile",
+    "description": "If you haven&amp;#8217;t seen it already, Flipboard have released a web version of their news consumption service (which is awesome BTW) But the truly awesome bit about it is how they have achieved 60fps animations on mobile browsers!..."
+}
+    </script>
+
+    <meta name="generator" content="Ghost ?" />
+    <link rel="alternate" type="application/rss+xml" title="Naughty Ottsel&#x27;s Programming Tidbits" href="http://NaughtyOttsel.github.io/rss" />
+</head>
+<body class="post-template tag-undefined tag-undefined tag-undefined tag-undefined tag-undefined tag-undefined">
+
+    
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="back-button icon-arrow-left" href="http://NaughtyOttsel.github.io">Home</a>
+        <a class="subscribe-button icon-feed" href="http://NaughtyOttsel.github.io/rss/">Subscribe</a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+
+    <article class="post tag-undefined tag-undefined tag-undefined tag-undefined tag-undefined tag-undefined">
+
+        <header class="post-header">
+            <h1 class="post-title">Mobile Web &amp; 60fps Animation</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2015-02-11">11 February 2015</time>  on <a href="http://NaughtyOttsel.github.io/tag/web">web</a>, <a href="http://NaughtyOttsel.github.io/tag/ html5"> html5</a>, <a href="http://NaughtyOttsel.github.io/tag/ flipboard"> flipboard</a>, <a href="http://NaughtyOttsel.github.io/tag/ react"> react</a>, <a href="http://NaughtyOttsel.github.io/tag/ canvas"> canvas</a>, <a href="http://NaughtyOttsel.github.io/tag/ mobile"> mobile</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <div class="paragraph">
+<p>If you haven&#8217;t seen it already, <a href="http://flipboard.com">Flipboard</a> have released a web version of their news consumption service (which is awesome BTW)</p>
+</div>
+<div class="paragraph">
+<p>But the truly awesome bit about it is how they have achieved 60fps animations on mobile browsers! This could be the turning point for Web/hybrid mobile apps!</p>
+</div>
+<div class="paragraph">
+<p>A brilliant write-up can be found on their "behind the scenes" blog <a href="http://engineering.flipboard.com">Flipboard Engineering</a> with the post <a href="http://engineering.flipboard.com/2015/02/mobile-web/">here</a></p>
+</div>
+<div class="paragraph">
+<p>I have always been one to prefer the native apps over web apps or badly done hybrid apps. When you can tell it&#8217;s a web app due to its speed. On top of this I found the content to load quite quickly on my LTE connection, 72 ping, 16.88 down, 11.30 up. Of course more congested areas/slower connections will be slower on loading content, but I don&#8217;t think it will be as crippling.</p>
+</div>
+<div class="paragraph">
+<p>Well worth a read and delve in.</p>
+</div>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="" style="background-image: url(https://avatars.githubusercontent.com/u/550966?v=3)"><span class="hidden">'s Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href=""></a></h4>
+
+                    <p>Read <a href="">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/share?text=Mobile%20Web%20%26%2060fps%20Animation&amp;url=http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://NaughtyOttsel.github.io/2015/02/11/Mobile-Web-and-60fps-Animation.html"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+
+    </article>
+
+</main>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="http://NaughtyOttsel.github.io">Naughty Ottsel&#x27;s Programming Tidbits</a> &copy; 2015</section>
+        <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script>
+
+    <script type="text/javascript" src="http://NaughtyOttsel.github.io/themes/Casper/assets/js/jquery.fitvids.js?v=1.0.0"></script>
+    <script type="text/javascript" src="http://NaughtyOttsel.github.io/themes/Casper/assets/js/index.js?v=1.0.0"></script>
+
+</body>
+</html>
