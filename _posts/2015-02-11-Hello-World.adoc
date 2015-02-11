@@ -6,4 +6,4 @@ This has been created with the help of a fantastic repo call HubPress.
 
 To get more info about HubPress visit it here: https://github.com/HubPress/hubpress.io
 
-hp-tags: welcome, hubpress, github, hello
+:hp-tags: welcome, hubpress, github, hello
