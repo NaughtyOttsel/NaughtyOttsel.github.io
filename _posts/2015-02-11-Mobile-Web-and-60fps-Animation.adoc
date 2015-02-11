@@ -1,0 +1,14 @@
+= Mobile Web & 60fps Animation
+:published_at: 2015-02-11
+:hp-tags: web, html5, flipboard, react, canvas, mobile
+
+If you haven't seen it already, http://flipboard.com[Flipboard] have released a web version of their news consumption service (which is awesome BTW)
+
+But the truly awesome bit about it is how they have achieved 60fps animations on mobile browsers! This could be the turning point for Web/hybrid mobile apps!
+
+A brilliant write-up can be found on their "behind the scenes" blog http://engineering.flipboard.com[Flipboard Engineering] with the post http://engineering.flipboard.com/2015/02/mobile-web/[here]
+
+I have always been one to prefer the native apps over web apps or badly done hybrid apps. When you can tell it's a web app due to its speed. On top of this I found the content to load quite quickly on my LTE connection, 72 ping, 16.88 down, 11.30 up. Of course more congested areas/slower connections will be slower on loading content, but I don't think it will be as crippling.
+
+Well worth a read and delve in.
+
