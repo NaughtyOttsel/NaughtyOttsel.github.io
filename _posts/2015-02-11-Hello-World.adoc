@@ -1,5 +1,6 @@
 = Hello World?
 :published_at: 2015-02-11
+:author: James Lee
 
 Well, this is it, a new way of blogging, all my geeky, techy stuff through Github.
 This has been created with the help of a fantastic repo call HubPress.
