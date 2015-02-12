@@ -1,0 +1,56 @@
+= Coming Up Swiftly
+:published_at: 2015-02-12
+:hp-tags: iOS, Swift, Mac OS, OS X, Mac OS X
+
+Swift will be the default langauge for Apple Products by 2019...
+
+I have no evidence for this, just a thought.
+
+Since Swift was announced in 2014 it has taken the development world by storm. It didn't go into official 1.0 until October and less than 6 months on we are already at v1.2
+
+It's definitely being developed swiftly "har-har-har"
+
+But I think that this has been a long time in the planning and it is only the beginning.
+
+2013 saw the release of the iPhone 5S, the first 64bit consumer mobile device. Questions were asked as to why, in theory there is marginal improvements with larger buses etc and the RAM wsn't really pushed. But this is the brilliance of Apple's planning.
+
+In 2010 the iPhone 4 was released with a front facing camera. In 2014, as developers, we no longer have to worry about checking for a front camera to support it.
+
+By 2016 we won't need to support 3.5" screens.
+I imagine by 2019 32bit iOS will be dead. Swift will stand on it's ashes. But this doesn't mean Objective-C will be dead. The dynamic will change.
+Objective-C will introspect Swift.
+
+Early 2015 saw the release of "Photo's for Mac" - iPhoto is dead, long live iPhoto X.
+This brought about the private framework UXKit. We all got pretty excited could we see it in the next release of Mac OS X? The general concensus is no. But that doesn't mean it won't always be private. It's waiting for the right point.
+
+I think we will see a tie of Swift, Mac OS and iOS. Not a tie up like Windows 10 promises to be. It won't be almost the same OS on your phone, laptop and tablet. But it will be less work to build an app for Mac OS and iOS.
+
+It's starting already.
+
+Naturally they share a lot of Foundation classes and other Frameworks, but that's old hat.
+AutoLayout is on both platforms.
+Size Classes could soon be on both platforms.
+Soon they will both be soley 64bit.
+UI Elements are slowly making their way on both platforms.
+
+The major difference between the platrforms at an obvious level is UIKit vs AppKit.
+
+UXKit could very much be the love child of these Frameworks.
+
+Imagine using all these technologies, you write one 1 App, 2 Targets and have 3 Device Catergories - It's a developers/business' dream.
+
+But one doesn't lose out on the other, that would be nirvana.
+
+So why Swift? It's a way of approaching this, rebuilding a language that can support both and I think one of the big factors is the use of Optionals.
+Swift 1.2 essentially brought in nullability for Objective-C.
+Look at the API changes between iOS 8.2 and iOS 8.3 - "Modules" are being updated and a majority of the changes... Return types of functions are no longer explicit. They have lost their !
+
+One of the big pushes about Swift at WWDC was that everything defaults to nil. We should alsways expect nil. nil is everything. We should all love nil.
+
+Functions can be nil. If an object does define a function but only works on one platform. It can be nil!
+
+We can worry less about crashing because we called an unrecognised selector. We can fail gracefully and carry on.
+
+1 App - 2 Targets - 3 Device Categories.
+
+All without making sacrafices. 
