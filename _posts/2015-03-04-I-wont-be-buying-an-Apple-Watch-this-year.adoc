@@ -1,0 +1,48 @@
+= I won't be buying an Apple Watch this year...
+:published_at: 2015-03-04
+:hp-tags: Apple, Watch, Smart, Watch, Smartwatch, Pebble, iOS, Android, Wear, Android Wear
+
+The Apple Watch is the 2nd most talked about Smartwatch, 1st being the Pebble (IMO)
+
+I even own a Pebble myself. I am the 1% of early(ish) adopters. I got mine quite late in the game in some respects, but it was a present. The cheapest, expensive watch I have owned.
+
+It's a good talking point and a handy in meetings or on the go. I can change music easily and UK Transport - one of my favourite apps!
+
+Android Wear, kinda fizzled in a way, again it was the enthusiasts that really took it on, but there hasn't been a push for Android Wear devices, in the UK at least.
+
+Of course the Apple Watch was the first time many people heard of Smartwatches, due to the fact the world now views and hears about Apple events. I will not lie, I think the Apple Watch looks like one of the best out there. But I won't be buying one... Not yet anyway.
+
+For starters I own a Smartwatch, I have had it for less than 12 months. It doesn't need replacing. I always say this, but I usually fall on that reason.
+
+But my main reason. Apple's 2nd Gen products are always the best "first" version of the product to go for. Look at the iPod, iPhone, iPad. All of these lines have been better in their second iteration.
+
+* The iPod's Mechanical Wheel becoming touch sensitive and easier to use. You could also argue Windows compatibility.
+* The iPhone 3G supporting 3G! Feature phones and smartphones before the first gen iPhone could do it.
+* The iPad 2's thinner design and faster hardware.
+
+I think there are many reasons for having these "inferior" first gen devices. Including:
+
+* Cost, all these devices have been "cheap" for Apple, yet still have high profit margins. Remember everyone's shock at the iPad 1G being $499?!
+* New interfaces. So much of the way we interact with today's tech has been influenced by Apple. For this I need to go into more detail.
+
+// 
+
+* The Macintosh brought the Mouse to the Masses. We had GUI interfaces! If you were born 1993/1994 onwards, you never have suffered the CLI (Author's note, I was born in 1993, I only of this pain through my mother's old computer, for which the model I cannot remember. I did word processing and spreadsheets on that... Memories)
+
+* The click wheel of the iPod, not used much these days, but take 1,000+ songs and try and navigate through them on other portable media devices... It was horrible.
+
+* iOS' Multi-touch and specific touch UI. You could use the phone without a stylus, there was no trying to tap a specific pixel on the screen. No keys getting in the way, unless you needed them there. From the outset the OS was baked soley on touch. Watch old Android intro video's. Full touch screen phone's were very much an experimental thing and don't even get me started on the Treo/Blackberry devices. I could never type as fast or accurately and I always have to chisel my nails into a decent pointer for the keys. (Note even in 2009/2010 there were touch phones without multi-touch. "Looking at you Sony." The Xperia One couldn't handle multi-touch from a hardware point of view!)
+
+* iOS again with the iPad. Tablet's came before the iPad. But they used a desktop OS with a touch layer and it wasn't very good. The touch layer just handled touches. No UI changes to make touch easier add in that battery didn't last long, they got very hot. They all failed and died. But the iPad brought "Desktop Class" applications to a touch UI. You could use a (watered down) Desktop Publishing App on a large touchscreen device, the battery lasted the best part of a day and it did get hot. But not so hot you couldn't hold it! 
+
+* N.B on iOS - Remember Windows Phone 6.5 and before? How it shrunk the OS UI, made some small screen alterations, but still sucked? Now look at Windows 8 (\*shudders\*) alongside Windows Phone 7/8 they are OS' built for touch. Touch took centre stage. I do wonder if the lightbulb would have come on by now in Microsoft if iOS and Android to an extent didn't show the way before.
+
+//
+
+And we now know that the Apple Watch with have touch but also Pressure Sensitive Touch and a "Digital Crown". The screen isn't big, when you think the general consensus for a touchable object these days is 44px by 44px you ain't gonna fit a lot on those screens. Let alone all the zooming and rotating etc we take for granted these days. The digital crown just makes sense. (Author note, not happy that it is not central, I am a left hander and yes you can flip the watch to make the crown accessible without getting wrists in the way. I would like to have the crown closer to the top.) You can zoom on a view quicker with the crown, one long "spin" will do more than constantly having to pinch to zoom on a screen when you won't have much space to pinch.
+
+I am never good at guessing what Apple will bring next to their devices. Well apart from the evolutionary designs (3GS, 4S, 5S etc.) when you can say it will be a bit beefier and might have a new "gimmick" (Voice Control, Siri, Touch ID) but the gimmick is generally ready for the revolutionary line. All the rumours of missing sensors, could mean we will see them on the 2nd Gen, we could have promximity sensors that allow you to do gestures in a 3D space. It could make you a cup of coffee for when you are about to wake up. All I know is that whatever it is, it will make sense and I will shout "Of Course!"
+
+I may be the 1% tech enthusiast, but at my age, with my wage. I can't afford to be an Apple 1% enthusiast. So this time I will wait it out until March 2016 to see what the Apple Watch will bring next.
+
+P.S - Go careful around the 3rd Gen if the watch follows the iPad. You will cry getting a 3rd Gen and then months later having a 4th Gen released, follow the iPad timeline with the Apple Watch, (Jan Announcement/Oct Announcement with April Release/Possible late March, April Release.) It could just happen.
